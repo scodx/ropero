@@ -1,5 +1,23 @@
 <?php
 
+/**
+ * 
+ *  @author scodx (oscar.exe@gmail.com)
+ *  @description  
+ *  Script que muestra 10 imágenes aleatorias de la carpeta donde se ejecuta
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+**/
+
+
+
+
+
+
 $files = glob("*");
 
 ?>
